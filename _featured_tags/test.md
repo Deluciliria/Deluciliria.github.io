@@ -1,5 +1,5 @@
 ---
-layout: test
+layout: list
 title:  test
 slug:   test
 description: >
