@@ -3,15 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: Example
+title: Blogs
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: example
+slug: blogs
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/example.md` to learn how to create your own.
+  这是一段说明文字，主要用来介绍Blogs这个分类是干啥的，现在是用于测试的，所以随便写了点东西充数。
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
