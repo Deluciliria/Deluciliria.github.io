@@ -51,6 +51,8 @@ author:
 menu:
   - title:             Blogs
     url:               /blogs/
+  - title:             Example
+    url:               /example/
   - title:             Documentation
     url:               /docs/
   - title:             About
