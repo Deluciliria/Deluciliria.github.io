@@ -28,7 +28,7 @@ description:           >
 # A shorter description for the sidebar.
 tagline:               纷繁的生活在这里沉淀
 # A list of keywords for your blog
-keywords:              []
+keywords:              [生活]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
