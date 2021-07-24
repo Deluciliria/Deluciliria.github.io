@@ -51,6 +51,8 @@ author:
 menu:
   - title:             Blogs
     url:               /blogs/
+  - title:             Bloggie
+    url:               /my-blog/
   - title:             Documentation
     url:               /docs/
   - title:             About
@@ -75,6 +77,8 @@ permalink:             /:categories/:year-:month-:day-:title/
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
 paginate_path:         /:num/
+paginate:              10
+paginate_path:         /my-blog/:num/
 
 
 # Theme
