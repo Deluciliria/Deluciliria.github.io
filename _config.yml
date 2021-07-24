@@ -31,7 +31,7 @@ description:           >
 tagline:               纷繁的生活在这里沉淀
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [生活]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -41,8 +41,8 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-    name:                Zachary Shi
-  email:               Zac.Shi@outlook.com
+    name:                <Zachary> <Shi>
+  email:               <Zac.Shi@outlook.com>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
