@@ -45,8 +45,6 @@ author:
 menu:
   - title:             库
     url:               /blogs/
-  - title:             Documentation
-    url:               /docs/
   - title:             About
     url:               /about/
 
