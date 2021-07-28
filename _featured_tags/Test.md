@@ -1,8 +1,7 @@
 ---
 layout: list
-title:  Test keyword
-slug:   Test
+title:  日常
+slug:   日常
 description: >
-  Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme.
-  It's based on [Poole](http://getpoole.com), the Jekyll butler.
+  记录一些平日生活中的琐事。
 ---
