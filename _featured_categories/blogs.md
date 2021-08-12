@@ -3,14 +3,15 @@
 layout: list
 
 # The title of the tag's page.
-title: Blogs
+title: 日志仓库
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: blogs
+slug: 日志
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  这是一段说明文字，主要用来介绍Blogs这个分类是干啥的，现在是用于测试的，所以随便写了点东西充数。
+  该页将博客创建为止的所有日志按照年份分组，并按照时间倒序排序。
+  你可以在这里找到每一篇日志。
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: false
