@@ -52,6 +52,7 @@ not_found:
   title:               '404: Page Not Found'
   message:             |
     抱歉，我似乎将URL的位置放错了，也可能是该链接指向了无尽的虚空。
+    
     <!--home_link-->
   home_link:           点我返回主页
 
@@ -60,6 +61,7 @@ offline:
   message:             |
     抱歉，检测到你正处于离线状态，这个页面尚未做好离线阅览的准备。
     返回主页看看别的文章吧。
+    
     <!--home_link-->
   home_link:           点我返回主页
 
